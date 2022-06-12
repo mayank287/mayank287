@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I Think I am Overthinker**
 
 <h3 align="left">Connect with me:</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0uC3kU4xFk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="left">
 <a href="https://twitter.com/mayank23201878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank23201878" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mayankarora2707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayankarora2707/" height="30" width="40" /></a>
