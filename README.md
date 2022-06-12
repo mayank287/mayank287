@@ -23,7 +23,7 @@
 
 - 📄 My Resume <a href = "https://drive.google.com/file/d/1j7gvhOoMmdb-E1_F8ctHStFQ1VBpN_jD/view" target = "blank">Click Here </a>
 
-- ⚡ Fun fact **I Think I am Very Overthinker**
+- ⚡ Fun fact **I Think I am Overthinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
