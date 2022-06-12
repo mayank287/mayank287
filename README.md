@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank287" alt="mayank287" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mayank23201878" target="blank"><img src="https://img.shields.io/twitter/follow/mayank23201878?logo=twitter&style=for-the-badge" alt="mayank23201878" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mayank23201878" target="_blank"><img src="https://img.shields.io/twitter/follow/mayank23201878?logo=twitter&style=for-the-badge" alt="mayank23201878" /></a> </p>
 
 - 🔭 I’m currently working on **Mern Stack + DSA**
 
