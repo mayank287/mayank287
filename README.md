@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at <a href  = "https://drive.google.com/file/d/1j7gvhOoMmdb-E1_F8ctHStFQ1VBpN_jD/view" target = "_blank">My Projects</a>
+- 👨‍💻 All of my projects are available at <a href  = "https://drive.google.com/file/d/1j7gvhOoMmdb-E1_F8ctHStFQ1VBpN_jD/view" target = "blank">My Projects</a>
 
 - 💬 Ask me about **ReactJs,NodeJs,Redux,MongoDB,UI/UX**
 
 - 📫 How to reach me **mayank2157@gmail.com**
 
-- 📄 My Resume <a href = "https://drive.google.com/file/d/1j7gvhOoMmdb-E1_F8ctHStFQ1VBpN_jD/view" target = "_blank">Click Here </a>
+- 📄 My Resume <a href = "https://drive.google.com/file/d/1j7gvhOoMmdb-E1_F8ctHStFQ1VBpN_jD/view" target = "blank">Click Here </a>
 
 - ⚡ Fun fact **I Think I am Very Overthinker**
 
