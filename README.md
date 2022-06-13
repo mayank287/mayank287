@@ -2,7 +2,12 @@
 <h3 align="center">A Frontend Developer and Design enthusiastic(UI/UX)</h3>
 
 
+
+
+<hr>
 <h1 align="center">Achievements 🏅</h1>
+
+
 <h3>Got 1st Position In SudoHacks(24hr Long hackathon) Organized By GDSC Daviet <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6932636904819425281/" target = "_blank">Verify Here</a></h3>
 
 
