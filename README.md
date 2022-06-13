@@ -10,6 +10,8 @@
 
 <h3>Got 1st Position In SudoHacks(24hr Long hackathon) Organized By GDSC Daviet <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6932636904819425281/" target = "_blank">Verify Here</a></h3>
 
+<hr>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank287&label=Profile%20views&color=0e75b6&style=flat" alt="mayank287" /> </p>
 
