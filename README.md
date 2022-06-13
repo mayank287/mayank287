@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Arora</h1>
 <h3 align="center">A Frontend Developer and Design enthusiastic(UI/UX)</h3>
 
+
+<h1 align="center">Achievements 🏅</h1>
+<h3>Got 1st Position In SudoHacks(24hr Long hackathon) Organized By GDSC Daviet <a href = "https://www.linkedin.com/feed/update/urn:li:activity:6932636904819425281/" target = "_blank">Verify Here</a></h3>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank287&label=Profile%20views&color=0e75b6&style=flat" alt="mayank287" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank287" alt="mayank287" /></a> </p>
