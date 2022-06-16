@@ -55,5 +55,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank287&show_icons=true&locale=en" alt="mayank287" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank287&" alt="mayank287" /></p>
-<img src = "https://activity-graph.herokuapp.com/graph?username=mayank287&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"></img>
+<img src = "https://activity-graph.herokuapp.com/graph?username=mayank287&bg_color=ededed&color=3e55fe&line=33d912&point=852929&area=true&hide_border=true"></img>
 
