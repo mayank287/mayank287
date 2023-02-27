@@ -46,7 +46,7 @@
 <a href="https://www.behance.net/mayankarora11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mayankarora11" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCovKL3e_5DGcZiIrhMVrwfg/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucovkl3e_5dgcziirhmvrwfg/videos" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayank2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayank2707" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mayank2707/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mayank2707/practice" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mayank2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mayank2707/practice" height="30" width="40" /></a>
 
 </p>
 
